@@ -7,7 +7,7 @@ I'm a software engineer, solution & enterprise architect based in Solingen, Germ
 - Working professionally as a software, solution & enterprise architect engineer since 1986
 - Developing with Java since JDK 1.4
 - Member of the [@nalukit](https://github.com/nalukit) team
-- creator of [@nalu](https://github.com/nalkit/naluu) 
+- creator of the [nalu](https://github.com/nalkit/nalu) project 
 - Loving great UX and architecture
 
 <picture>
