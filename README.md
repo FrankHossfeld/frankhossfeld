@@ -16,7 +16,7 @@ I'm a software engineer, solution & enterprise architect based in Solingen, Germ
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hfrankhossfeld&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=frankhossfeld&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=frankhossfeld&show_icons=true" />
