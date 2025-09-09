@@ -1,6 +1,6 @@
 ### Hi 
 
-I'm a software engineer, solution & enterprise architect based in Solingen, Germany working for Naklu Solutions GmbH.
+I'm a software engineer, solution & enterprise architect based in Solingen, Germany working for Nalu Solutions GmbH.
 
 ### Some background
 
